@@ -50,6 +50,8 @@ Example:
 def evaluate_model(model, X, y):
     y_pred = model.predict(X)
     return accuracy_score(y, y_pred), precision_score(y, y_pred), recall_score(y, y_pred), roc_auc_score(y, y_pred)
+```
+
 ## 🏁 Results Summary
 
 | Model | Accuracy | Notes |
