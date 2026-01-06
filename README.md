@@ -1,4 +1,4 @@
-# 💳 Transaction Fraud Detection
+# 💳 Transaction Fraud Detection with ML Pipeline
 
 This project builds a **machine learning pipeline** to detect fraudulent financial transactions.  
 Multiple classification algorithms are implemented and compared to identify the best-performing model.
