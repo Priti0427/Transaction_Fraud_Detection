@@ -8,7 +8,7 @@ Multiple classification algorithms are implemented and compared to identify the 
 ## 🧠 Overview
 
 Machine learning helps detect fraudulent activity by identifying patterns in transaction data.  
-This project demonstrates a full ML workflow — from data preprocessing to model evaluation — both with and without pipelines.
+This project demonstrates a full ML workflow, from data preprocessing to model evaluation, both with and without pipelines.
 
 ---
 
@@ -16,7 +16,7 @@ This project demonstrates a full ML workflow — from data preprocessing to mode
 
 1. **Data Collection & Cleaning**  
    - Imported dataset from Google Drive  
-   - Handled missing values (none found)  
+   - Checked for missing values (none found)  
    - Encoded categorical columns
 
 2. **Exploratory Data Analysis (EDA)**  
