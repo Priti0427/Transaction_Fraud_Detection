@@ -93,11 +93,11 @@ making workflows efficient, consistent, and reusable.
 
 # 📚 Acknowledgements
 
-Scikit-learn Documentation
+- Scikit-learn Documentation
 
-XGBoost Docs
+- XGBoost Docs
 
-CatBoost Docs
+- CatBoost Docs
 
 # 👩‍💻 Author
 
