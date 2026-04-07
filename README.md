@@ -15,25 +15,25 @@ This project demonstrates a full ML workflow, from data preprocessing to model e
 ## ⚙️ Steps Involved
 
 1. **Data Collection & Cleaning**  
-   - Imported dataset from Google Drive  
-   - Checked for missing values (none found)  
-   - Encoded categorical columns
+   - Import dataset from Google Drive  
+   - Check for missing values (none found)  
+   - Encode categorical columns
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Checked data balance (highly imbalanced: ~8K frauds vs. 6.3M non-frauds)  
-   - Visualized correlations and distributions
+   - Check data balance (highly imbalanced: ~8K frauds vs. 6.3M non-frauds)  
+   - Visualize correlations and distributions
 
 3. **Feature Engineering**  
-   - Selected top features using `SelectKBest` (ANOVA F-test)  
-   - Scaled numerical columns with `StandardScaler`
+   - Select top features using `SelectKBest` (ANOVA F-test)  
+   - Scale numerical columns with `StandardScaler`
 
 4. **Model Training**  
-   - Compared Logistic Regression, Decision Tree, XGBoost, and CatBoost  
-   - Used `train_test_split` (70/30) for evaluation
+   - Compare Logistic Regression, Decision Tree, XGBoost, and CatBoost  
+   - Use `train_test_split` (70/30) for evaluation
 
 5. **Pipeline Implementation**  
-   - Automated preprocessing + feature selection + model training  
-   - Created one pipeline per algorithm for fair comparison
+   - Automate preprocessing + feature selection + model training  
+   - Create one pipeline per algorithm for fair comparison
 
 ---
 
