@@ -90,6 +90,7 @@ python fraud_detection.py
 
 This project shows how ML pipelines simplify model building for large-scale fraud detection,
 making workflows efficient, consistent, and reusable.
+- Detailed explanation: https://medium.com/@pritisagar0427/machine-learning-project-on-transaction-fraud-detection-6e69c9ff92aa
 
 # 📚 Acknowledgements
 
