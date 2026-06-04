@@ -32,7 +32,7 @@ This project demonstrates a full ML workflow, from data preprocessing to model e
    - Use `train_test_split` (70/30) for evaluation
 
 5. **Pipeline Implementation**  
-   - Automate preprocessing + feature selection + model training  
+   - Automate preprocessing, feature selection and model training  
    - Create one pipeline per algorithm for fair comparison
 
 ---
