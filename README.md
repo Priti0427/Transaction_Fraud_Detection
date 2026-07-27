@@ -16,7 +16,7 @@ This project demonstrates a full ML workflow, from data preprocessing to model e
 
 1. **Data Collection & Cleaning**  
    - Import dataset from Google Drive  
-   - Check for missing values (none found)  
+   - Check for missing values   
    - Encode categorical columns
 
 2. **Exploratory Data Analysis (EDA)**  
